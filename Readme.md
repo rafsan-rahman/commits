@@ -69,4 +69,7 @@ web_server
   - 
          cd <root of your project>
          docker-compose up --build -d
-​
+## anything
+  -step 1: do anythong
+    -step2: do nothing
+  ​
