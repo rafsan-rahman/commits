@@ -71,5 +71,5 @@ web_server
          docker-compose up --build -d
 ## anything
   -step 1: do anythong
-    -step2: do nothing
+    -step2: do **something**
   ​
